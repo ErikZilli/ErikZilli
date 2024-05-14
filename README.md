@@ -12,7 +12,7 @@
 <div>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/erik zilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/ErikZilli/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erik zilli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/erik-zilli-816473307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ErikZilli/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erik zilli" height="30" width="40" /></a>
 </p>
 <div>
 
