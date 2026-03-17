@@ -1,11 +1,11 @@
 <h1 align="center">Hi! I'm Erik Zilli</h1>
-<h2 align="center">I’m programming student determined to master new skills 🚀</h2>
+<h2 align="center">I’m fullstack developer determined to master new skills 🚀</h2>
 
 <div>
 <h3 align="left">About me:</h3>
 <p>🔭 Currently studying IT at the Cedup Abílio Paulo technical school.<p>
 <p>🏡 I'm from Brazil, Santa Catarina.<p>
-<p>📚 I'm currently learning Javascript, HTML and CSS.<p>
+<p>📚 I'm currently working with PHP, Javascript, HTML, CSS and SQL.<p>
 <p>📤 Goals 2024: I want to learn more, finish my courses and go even deeper.<p>
 </div>
 
