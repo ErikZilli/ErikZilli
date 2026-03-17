@@ -3,7 +3,7 @@
 
 <div>
 <h3 align="left">About me:</h3>
-<p>🔭 Currently studying IT at the Cedup Abílio Paulo technical school.<p>
+<p>🔭 Currently working in Capital Commit Software.<p>
 <p>🏡 I'm from Brazil, Santa Catarina.<p>
 <p>📚 I'm currently working with PHP, Javascript, HTML, CSS and SQL.<p>
 <p>📤 Goals 2024: I want to learn more, finish my courses and go even deeper.<p>
