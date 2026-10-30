@@ -1,33 +1,52 @@
-<h1 align="center">Hi! I'm Erik Zilli</h1>
-<h2 align="center">I’m fullstack developer determined to master new skills 🚀</h2>
-
-<div>
-<h3 align="left">About me:</h3>
-<p>🔭 Currently working in Capital Commit Software.<p>
-<p>🏡 I'm from Brazil, Santa Catarina.<p>
-<p>📚 I'm currently working with PHP, Javascript, HTML, CSS and SQL.<p>
-<p>📤 Goals 2024: I want to learn more, finish my courses and go even deeper.<p>
-</div>
-
-<div>
-<h3 align="left">🌐 Socials:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/erik-zilli-816473307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ErikZilli/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erik zilli" height="30" width="40" /></a>
+<h1 align="center">Erik Zilli</h1>
+<p align="center"><b>AI Engineer</b> · I build AI agents, LLM automations and the systems around them.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-<div>
 
-<div>
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left"> 
-					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </ a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-</div>
+---
 
-<div>      
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=erikzilli&show_icons=true&locale=en&theme=tokyonight" alt="erikzilli" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikzilli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erikzilli" /></p>
-</div>
+### 🤖 What I build
+
+- **Autonomous ad manager.** An agent that watches multiple Meta Ads accounts every 30 minutes, flags problems, proposes budget moves and explains them in plain language. Web dashboard plus Telegram and WhatsApp alerts.
+  `TypeScript` `Claude API` `Meta Marketing API` `Next.js`
+- **WhatsApp bots with LLMs.** Bots that run raffles, mini-games and community events inside group chats, with Claude handling the conversation.
+  `TypeScript` `Evolution API` `Claude Haiku`
+- **AI creative pipeline.** Generates ad creatives from a real product photo plus a style reference, then restores the original product pixels by code so the product never gets distorted.
+  `Python` `Node` `Image models`
+- **Field apps.** Native Android app for poultry farm audits, with counters, saved reports and PDF export.
+  `Java` `Android`
+
+30+ projects shipped for clients. Most of the code lives in private repos.
+
+### 🧠 How I work
+
+I run a team of specialized AI agents (planner, implementers, reviewer) orchestrated with Claude Code.
+Every feature goes **spec → plan → tests first → review → deploy**. The agents write the code; I own the architecture and the result.
+
+### 🛠️ Stack
+
+| Area | Tools |
+|---|---|
+| AI & automation | Claude API, Claude Code, OpenAI API, MCP, multi-agent workflows (Maestri), n8n |
+| Languages | TypeScript / Node.js, Python, Kotlin, Java, PHP, SQL, Bash, PowerShell |
+| Web | React, Next.js, Adianti (PHP), Bootstrap, jQuery |
+| Mobile | Android (Kotlin, Java) |
+| Databases | PostgreSQL, MySQL, Supabase |
+| Integrations | Meta Marketing API, WhatsApp (Evolution API), Telegram |
+| Deploy | Docker, Vercel, Hetzner, Hostinger |
+| Design | Figma |
+
+### 📫 Contact
+
+<a href="https://www.linkedin.com/in/erik-zilli-816473307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<sub>📍 Santa Catarina, Brazil</sub>
